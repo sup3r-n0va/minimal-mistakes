@@ -13,9 +13,9 @@ title                    : "Sup3rn0va"
 title_separator          : "-"
 name                     : "Sup3rn0va"
 description              : "Hacking and Programming Student"
-url                      : sup3r-n0va.github.io
+url                      : "sup3r-n0va.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : sup3r-n0va/sup3r-n0va.github.io/
+repository               : "sup3r-n0va/sup3r-n0va.github.io/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
