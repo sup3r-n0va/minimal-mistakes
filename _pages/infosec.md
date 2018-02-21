@@ -4,31 +4,41 @@ title: InfoSec
 permalink: /infosec/
 ---
 
-InfoSec related posts.
+# InfoSec related posts.
 
-## Pentesting:
-----------------
+### Pentesting:
 
-## Reverse Engineering:
-----------------
 
-## Web Pentesting:
-----------------
+### Reverse Engineering:
+
+
+### Web Pentesting:
+
 
 ## Binary Exploitation:
-----------------
-
-## Cryptography:
-----------------
-
-## Hardware Hacking:
-----------------
-
-## Forsenics:
-----------------
 
 
+### Cryptography:
 
-### Contact me
+
+### Hardware Hacking:
+
+
+### Forsenics:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Contact me
 
 [sup3rn0va23@protonmail.com](mailto:sup3rn0va23@protonmail.com)
