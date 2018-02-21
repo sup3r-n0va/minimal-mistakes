@@ -4,12 +4,24 @@ title: InfoSec
 permalink: /infosec/
 ---
 
-Some information about you!
+InfoSec related posts.
 
-### More Information
+## Pentesting
 
-A place to include any other types of information that you'd like to include about yourself.
+## Reverse Engineering
+
+## Web Pentesting
+
+## Binary Exploitation
+
+## Cryptography
+
+## Hardware Hacking
+
+## Forsenics
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sup3rn0va23@protonmail.com](mailto:sup3rn0va23@protonmail.com)
