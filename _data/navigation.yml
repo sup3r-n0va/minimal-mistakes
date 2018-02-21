@@ -3,10 +3,12 @@ main:
   - title: "Programming"
     url: https://sup3r-n0va.github.io/programming
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistake/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+    url: https://sup3r-n0va.github.io/about/
+  - title: "Pentesting"
+    url: https://sup3r-n0va.github.io/pentesting/
+  - title: "Binary Exploitation"
+    url: https://sup3r-n0va.github.io/binaryexploit/
+  - title: "Reverse Engineering"
+    url: https://sup3r-n0va.github.io/reveng/
+  - title: "Web Pentesting"
+    url: https://sup3r-n0va.github.io/webpen/
