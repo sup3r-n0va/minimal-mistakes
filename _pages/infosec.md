@@ -15,7 +15,7 @@ permalink: /infosec/
 ### Web Pentesting:
 
 
-## Binary Exploitation:
+### Binary Exploitation:
 
 
 ### Cryptography:
