@@ -4,11 +4,8 @@ main:
     url: https://sup3r-n0va.github.io/programming
   - title: "About"
     url: https://sup3r-n0va.github.io/about/
-  - title: "Pentesting"
-    url: https://sup3r-n0va.github.io/pentesting/
-  - title: "Binary Exploitation"
-    url: https://sup3r-n0va.github.io/binaryexploit/
-  - title: "Reverse Engineering"
-    url: https://sup3r-n0va.github.io/reveng/
-  - title: "Web Pentesting"
-    url: https://sup3r-n0va.github.io/webpen/
+  - title: "InfoSec"
+    url: https://sup3r-n0va.github.io/infosec
+  - title: "Projects"
+    url: https://sup3r-n0va.github.io/projects
+    
